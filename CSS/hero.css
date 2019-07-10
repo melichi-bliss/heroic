@@ -17,14 +17,12 @@ h1 {
 header img{ 
 	border-radius: 150px;
 	width: 300px;
-	
  }
 
 .content{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px; 
-	
 }
 
 img.big-image{
@@ -48,7 +46,6 @@ ul{
 a{
 	color: #c41a1a;
 	text-decoration: none;
-
 }
 
 footer{
